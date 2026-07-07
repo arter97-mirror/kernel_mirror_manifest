@@ -73,6 +73,7 @@
   <project name="platform/vendor/qcom/opensource/datarmnet"/>
   <project name="platform/vendor/qcom-opensource/devicetree"/>
   <project name="platform/vendor/qcom-opensource/kernel-devicetree"/>
+  <project name="toolchain/prebuilts/ndk/r27"/>
 
   <project name="device/google/cuttlefish_vmm" remote="google"/>
   <project name="kernel/common-modules/binder" remote="google"/>
@@ -245,6 +246,5 @@
   <project name="toolchain/pgo-profiles" remote="google"/>
   <project name="toolchain/prebuilts/ndk/r23" remote="google"/>
   <project name="toolchain/prebuilts/ndk/r26" remote="google"/>
-  <project name="toolchain/prebuilts/ndk/r27" remote="google"/>
 
 </manifest>
