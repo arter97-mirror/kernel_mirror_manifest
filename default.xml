@@ -27,6 +27,7 @@
   <project name="kernel_platform/external/bazelbuild-rules_rust"/>
   <project name="kernel_platform/external/bazelbuild-rules_shell"/>
   <project name="kernel_platform/external/bazel-contrib-bazel_features"/>
+  <project name="kernel_platform/external/bazel-contrib-rules_devicetree"/>
   <project name="kernel_platform/external/bazel-skylib"/>
   <project name="kernel_platform/external/boringssl"/>
   <project name="kernel_platform/external/compiler-rt"/>
